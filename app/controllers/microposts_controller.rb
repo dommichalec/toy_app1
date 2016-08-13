@@ -10,7 +10,6 @@ class MicropostsController < ApplicationController
   # GET /microposts/1
   # GET /microposts/1.json
   def show
-    fail
   end
 
   # GET /microposts/new
